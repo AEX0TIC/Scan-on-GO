@@ -4,7 +4,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"scanner/scan-on-go"
+	"scanner"
+)
 
 func main() {
 	target := flag.String("target", "", "Target IP or domain")
