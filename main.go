@@ -1,10 +1,10 @@
 package main
 
 import (
+	"Scan-on-GO/scanner"
 	"flag"
 	"fmt"
 	"os"
-	"scanner"
 )
 
 func main() {
