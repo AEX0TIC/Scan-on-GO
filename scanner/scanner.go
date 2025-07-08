@@ -51,4 +51,5 @@ func Scan(host string, start, end, timeout int, savePath string) {
 			fmt.Println("✅ Results saved to", savePath)
 		}
 	}
+	fmt.Println("🔎 Scan complete.")
 }
