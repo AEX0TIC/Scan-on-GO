@@ -64,7 +64,3 @@ Scan-on-GO/
 ```
 
 ---
-
-## License
-
-MIT
