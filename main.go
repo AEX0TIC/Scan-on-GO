@@ -13,8 +13,6 @@ func printBanner() {
 	fmt.Println("###### #      ###### #  #  # ##### #    # #  #  # ##### #    ## #    #")
 	fmt.Println("     # #      #    # #   # #       #    # #   # #       #     # #    #")
 	fmt.Println("#####  ###### #    # #    ##       ###### #    ##        ###### ######")
-	fmt.Println("")
-
 }
 
 func main() {
